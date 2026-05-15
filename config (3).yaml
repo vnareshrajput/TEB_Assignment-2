@@ -1,0 +1,14 @@
+# Simulation parameters
+n: 2000          # Draw integers uniformly from [1, n]
+
+k_values:        # Sample sizes to compare
+  - 5
+  - 10
+  - 25
+  - 50
+  - 100
+  - 200
+  - 1000
+  - 2000
+
+repeats: 10      # Independent trials per k value
