@@ -2,7 +2,8 @@
 
 ## Output
 
-![LLN plot for n=2000](plots/lln_for_n_2000.png)
+<img width="1000" height="500" alt="lln_for_n_2000 (1)" src="https://github.com/user-attachments/assets/a414eae6-7fcd-4846-b131-edc9498d1549" />
+
 
 ---
 
